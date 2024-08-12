@@ -1,0 +1,2 @@
+# bigo
+bigo plugin
